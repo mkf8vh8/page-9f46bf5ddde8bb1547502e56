@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "79a552f58dc6abb873f20056",
+  "owner": "mkf8vh8",
+  "repo": "page-9f46bf5ddde8bb1547502e56",
+  "title": "520酸酸乳(520SSR)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9f46bf5ddde8bb1547502e56",
+      "a": "520酸酸乳(520SSR)",
+      "b": "机场官网线路发布页",
+      "entity": "520酸酸乳(520SSR)",
+      "brand": "520酸酸乳(520SSR)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e8e9d656151d03485ac018044a09d6ee46151cd5458e55d4555ffaa287a1f93e",
+      "content": {
+        "primary_entity": "520酸酸乳(520SSR)",
+        "keyword1": "520酸酸乳(520SSR)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，订阅链接支持手动导入。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，用订阅链接完成客户端配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，配置一次",
+          "AI_DESCRIPTION": "，520酸酸乳(520SSR)提供基础版、旗舰版与团队版三档订阅。基础版每月100GB流量、3台设备在线，适合轻度网页浏览；旗舰版每月300GB流量、5台设备在线，含IPLC专线游戏加速与原生流媒体解锁；团队版每月1000GB流量、20台设备在线，支持企业定制路由与专属客户经理。按年付可节省两个月费用，年付价格分别为150元、350元与850元。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备；团队版每月1000GB流量、支持20台设备。按年付分别只需150元、350元与850元。",
+          "AI_FAQ_ANSWER_2": "打开对应客户端，找到订阅或配置导入选项，粘贴购买后获得的订阅链接并保存，客户端会自动拉取节点列表。不同客户端的菜单位置可能略有差异。",
+          "AI_FAQ_ANSWER_3": "基础版限制3台设备同时在线，旗舰版为5台，团队版为20台。如需更多设备，可选用团队版或调整在线设备数量。",
+          "AI_FAQ_ANSWER_4": "基础版适合单人日常网页浏览与轻度流媒体；旗舰版提供IPLC专线游戏加速和全节点原生流媒体解锁，适合对延迟敏感的用户；团队版带宽更高，支持企业定制路由。",
+          "AI_FAQ_ANSWER_5": "可以。先确认当前所在平台，再对照客户端支持列表选择对应版本。若不确定，可从旗舰版入手，再根据实际体验调整。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别提供多少流量和设备数？",
+          "AI_FAQ_QUESTION_2": "怎么把订阅导入客户端？",
+          "AI_FAQ_QUESTION_3": "同一时间可以几台设备在线？",
+          "AI_FAQ_QUESTION_4": "哪个套餐适合游戏或流媒体？",
+          "AI_FAQ_QUESTION_5": "更换设备后还能继续使用吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕流量、设备与订阅周期设计，按实际使用场景选择。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合单人轻度使用，旗舰版300GB可覆盖日常流媒体，团队版1000GB满足多设备并发。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台设备同时在线，按家庭或团队规模选档即可。",
+          "AI_FEATURE_TEXT_3": "按年付可节省两个月费用，基础版年均每月约12.5元，旗舰版约29元，团队版约71元。",
+          "AI_FEATURE_TITLE_1": "流量按需匹配",
+          "AI_FEATURE_TITLE_2": "设备数量分层",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，三步开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "520酸酸乳(520SSR)提供基础版、旗舰版与团队版三档订阅，分别覆盖轻量浏览、游戏加速与多设备团队场景。挑选适合的套餐后，在对应客户端导入订阅链接即可使用。",
+          "AI_HERO_SUBTITLE": "三档订阅，灵活选择",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备在线",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版增加IPLC专线与流媒体解锁，团队版提供高带宽节点与企业定制路由。按年付三档分别只需150元、350元与850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，查看对应功能的适配要求。",
+          "AI_STEP_TEXT_3": "参照客户端文档，将订阅链接导入并保存，等待节点列表更新。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "选套餐，连世界"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yglea.cn",
+    "host": "yglea.cn"
+  },
+  "file_hashes": {
+    "index.html": "b4cc47079c609b80752a4703ddb7e31a02c8bb91af9df705b16435c2e1fdfd1e",
+    "sitemap.xml": "ee8b14683aa49180280a29ba4c67558e3da6f4b9e6c7694e46e5b1d70adf9e34",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c527de5255660ccafae23e3c449df8625b71f2612784296b931759aa531346fa",
+    "robots.txt": "d6a4b55daad524d3fd8f12683b29755a0f695f91f9c2e478acdcb59dc4096689",
+    "8672b0463bebec706107160be81274f8.txt": "1ecde7ed0ed126a200c981fa3c8780975507dbd8a2d3412a93b4f22ace3c4fd0"
+  },
+  "revision": "58a0901842c2a127428790f8b4f8bc2899a4adc4bdcc8bc9abcd53e830f795f1"
+}

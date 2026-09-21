@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yglea.cn/sitemap.xml
